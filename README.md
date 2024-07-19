@@ -77,24 +77,9 @@ To assess your project and ensure all requirements are met, a **rubric** will be
 
 ## Schedule
 
-### Full-time:
-
 - **Stand ups\***
 - **Coding Kata**
 - **Project development**
-
-### Part-time:
-
-- **Week Nights**
-
-  - **Stand ups\***
-  - **Project development**
-
-- **Saturdays**
-
-  - **Stand ups\***
-  - **Coding Kata**
-  - **Project development**
 
   <br>
 
